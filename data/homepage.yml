@@ -1,0 +1,254 @@
+# showcase
+showcase:
+  enable: true
+  title: 'Hello, I’m <mark class="lapis">Michael</mark> <mark class="wave">👋</mark>'
+  subtitle: '<span><a href="https://csb.lehigh.edu" target="_blank">CSB</a> @ <mark class="lehigh">Lehigh</mark></span>'
+  description: "I am an undergraduate student at Lehigh University pursuing computer science and business with interests in machine learning and blockchain."
+  image:
+    x: "img/showcase/moreme.jpg"
+    _2x: "img/showcase/moreme.jpg"
+    alt: "Michael Goldfarb"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+    alt: "Michael Goldfarb"
+
+  linkedin:
+    icon: "icon-linkedin-fill"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/michaellgoldfarb/"
+
+  github:
+    icon: "icon-github-line"
+    btnText: "GitHub"
+    URL: "https://github.com/michael-goldfarb"
+
+  contact:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:mlg325@lehigh.edu"
+
+  # socialLinks:
+  #   - icon: "linkedin"
+  #     URL: "https://www.linkedin.com/in/michaellgoldfarb/"
+
+  #   - icon: "github"
+  #     URL: "https://github.com/michael-goldfarb"
+
+# about
+about:
+  enable: true
+  title: "About Me"
+  content: |
+    <p class="lead">
+    Hi there! I am a computer science and business student at <span class="bold-brown">Lehigh</span> who is focused on simplifying user interactions with technology,
+    finding unaddressed niches, and delivering innovative solutions to users. I strive to an <span class="bold-blue">early adopter</span> 
+    of new technology so that I can deliver innovative products to users.
+    </p>
+    <p class="lead">
+    I have experience in machine learning, both in an industry and research setting. 
+    I also enjoy building <span class="bold-brown">web applications</span> for my projects, clubs, and internships. 
+    Recently, I’ve delved into <span class="bold-blue">Blockchain</span> and <span class="bold-brown">iOS development</span>.
+    </p>
+    <p class="lead">
+    Now, I'm excited to create <span class="bold-blue">user-friendly UX/UI experiences</span> and build secure, scalable backend systems.
+    My commitment to staying current with industry trends drives my pursuit of professional growth. 
+    I'm actively seeking opportunities to contribute my skills to innovative web development and software engineering projects.
+    </p>
+  content2: |
+    <p class="lead">
+    With experience in designing <span class="bold-blue">machine learning models</span> and scraping/presenting large amounts of data, 
+    I've developed a MLB Game Predictor website and the Mountain Hawk Food Finder iOS app. 
+    </p>
+    <p class="lead">
+    Last summer, I trained mathematical models and agent-based models based on historical data obtained by the CDC.
+    I also created <span class="bold-blue">powerful data visualizations</span> to provide actionable insights into mitigating influenza spread.
+    My team's agent-based influenza modeling project came in <span class="bold-brown">second place</span> in the Lehigh Summer Research Day Expo.
+    </p>
+    <p class="lead">
+    Outside of work, I spend time playing fantasy football, listening to music, and editing videos.
+    I have played baseball since elementary school and like to play pick-up basketball with friends.
+    I also enjoy participating in <span class="bold-blue">hackathons</span> and <span class="bold-brown">programming challenges</span>.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/"
+  image1:
+    x: "img/who-am-i/headshot.jpg"
+    _2x: "img/who-am-i/headshot.jpg"
+  image2:
+    x: "img/who-am-i/presentation.jpg"
+    _2x: "img/who-am-i/presentation.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Lehigh University"
+      picture: "img/who-am-i/LUwithShield-CMYK.svg"
+      year: "2021-2025"
+      degree: "Bachelor of Science in Computer Science and Business"
+
+    - university: "Livingston High School"
+      picture: "img/who-am-i/Livingston_seal.png"
+      year: "2017-2021"
+      degree: "High School Diploma"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. While working on these models, I was able to introduce <span class='bold-blue'>parallel processing</span> for enhanced model scalability. I researched for the <span class='bold-brown'>Lehigh Blockchain</span> group, where I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/michaellgoldfarb/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/resume.pdf"
+
+  items:
+    - title: "Software Engineering Intern"
+      company: "STEM-SI"
+      duration: "May 2023 - Aug 2023"
+      
+    - title: "Undergraduate Researcher"
+      company: "Lehigh Blockchain"
+      duration: "Aug 2023 - Dec 2023"
+
+    - title: "Undergraduate Researcher"
+      company: "Lehigh Blockchain"
+      duration: "Aug 2023 - Dec 2023"
+
+    - title: "Software Engineering Intern"
+      company: "TrueToForm"
+      duration: "May 2022 - Jul 2022"
+
+    - title: "Independent Research Student"
+      company: "NYU Tandon School of Engineering"
+      duration: "Jun 2019 — Aug 2021"
+
+# Client & Work
+client_and_work:
+  title: "Projects"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Mountain Hawk Food Finder"
+      description: "An iOS app to display daily menus, menu item ratings, and hours of operation for Lehigh eateries."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        github: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
+        URL: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
+      image:
+        x: "img/works/app.png"
+        _2x: "img/works/app.png"
+      is_even: true
+
+    - title: "MLB Game Predictor"
+      description: "A website that displays the results of my machine learning model, which uses statistics from games from the previous two MLB seasons to decide the current MLB game winner."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        github: "https://github.com/michael-goldfarb/mlbgamepredictor"
+        URL: "https://github.com/michael-goldfarb/mlbgamepredictor"
+      image:
+        x: "img/works/mlbgamepredictor.png"
+        _2x: "img/works/mlbgamepredictor.png"
+      is_even: false
+
+    - title: "Solidity Semiswap"
+      description: "Designed an ERC-20 to Ether Automatic Market Maker DEX in Solidity for my Blockchain Systems class."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        github: "https://github.com/Michael-Goldfarb/soliditysemiswap"
+        URL: "https://github.com/Michael-Goldfarb/soliditysemiswap"
+      image:
+        x: "img/works/semiswap.jpg"
+        _2x: "img/works/semiswap.jpg"
+      is_even: true
+
+
+# testimonial
+# testimonial:
+#   enable: true
+#   title: "Recommendations"
+#   items:
+#     - name: "Margaret Tam"
+#       position: "TrueToForm, CTO"
+#       content: "Leo consistently impressed me throughout his software engineering internship at TrueToForm, where I was his project manager and mentor. He quickly demonstrated that he has strong technical skills in programming and algorithm development, and that he is an incredibly motivated, fast learner. Over the course of the summer, he added 11 new body measurements which are critical to garment design and construction. By completing our automated set of full body measurements, we were able to launch the TrueToForm open beta program during the summer and acquire our first paying customers."
+#       image:
+#         x: "img/testimonials/margarettam.jpeg"
+#         _2x: "img/testimonials/margarettam.jpeg"
+ 
+#     - name: "Dr. Chen Feng"
+#       position: "Assistant Professor, NYU"
+#       content: "Leo first reached out to me through LinkedIn as a high school sophomore to inquire about a summer research position in my group. In my conversations with him, he expressed a passion for machine learning, which he developed by developing personal projects and taking online courses. Leo was the perfect fit for an independent research student, and I had the pleasure of having Leo at the NYU AI4CE lab for the next three years. He demonstrated intellectual curiosity, excellence in collaborating with others, and a passion for machine learning. As an undergraduate student with rich research experience and motivation, he has my highest recommendation."
+#       image:
+#         x: "img/testimonials/cfeng.jpeg"
+#         _2x: "img/testimonials/cfeng.jpeg"
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+  address:
+    title: "Address"
+    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

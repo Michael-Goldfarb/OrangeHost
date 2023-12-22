@@ -1,0 +1,75 @@
+baseURL = "michaelleegoldfarb.com"
+languageCode = "en-us"
+theme = "raditian-free-hugo-theme"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 3
+
+  [[menu.header]]
+  name = "Projects"
+  URL = "#portfolio"
+  weight = 4
+
+
+  [[menu.footer]]
+  name = "About"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Projects"
+  URL = "#portfolio"
+  weight = 4
+
+
+[params]
+
+  sections = ["showcase", "about", "education", "experience", "testimonial", "client-and-work", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+  [params.logo]
+    text1 = "Michael"
+    text2 = "Goldfarb"
+
+  [params.footer]
+      copyright = "© 2023 Michael Goldfarb"
+      [params.footer.radity_logo]
+        x = "img/general/design-and-code-radity.png"
+        _2x = "img/general/design-and-code-radity@2x.png"
+        alt = "Design & Code - Radity"

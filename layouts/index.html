@@ -1,0 +1,40 @@
+<!-- inject:../components/baseHead/baseHeadStart.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    {{ partial "head.html" . }}
+
+    {{ partial "head_custom.html" . }}
+	<link rel='icon' type='image/x-icon' href="/favicons.ico"/>
+
+</head>
+
+<body>
+
+	{{ partial "header.html" . }}
+
+	{{ range .Site.Params.sections }}
+	{{ partial . $ }}
+	{{ end }}
+	<div class="area" style="z-index: -1" >
+		<ul class="circles">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div >
+	{{ partial "footer.html" . }}
+    {{ partial "base-foot.html" . }}
+</body>
+
+</html>
+<!-- endinject -->
