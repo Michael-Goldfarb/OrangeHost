@@ -167,6 +167,18 @@ client_and_work:
       alt: "Ztos"
 
   works:
+    - title: "OhConnections"
+      description: "My take on the New York Times 'Connections' game -- applied to baseball!"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        github: "https://github.com/michael-goldfarb/OhConnections"
+        URL: "https://OhConnections.com"
+      image:
+        x: "img/works/ohconnections1.png"
+        _2x: "img/works/ohconnections1.png"
+      is_even: true
+      
     - title: "Mountain Hawk Food Finder"
       description: "An iOS app to display daily menus, menu item ratings, and hours of operation for Lehigh eateries."
       button:
@@ -177,7 +189,7 @@ client_and_work:
       image:
         x: "img/works/app.png"
         _2x: "img/works/app.png"
-      is_even: true
+      is_even: false
 
     - title: "MLB Game Predictor"
       description: "A website that displays the results of my machine learning model, which uses statistics from games from the previous two MLB seasons to decide the current MLB game winner."
@@ -189,7 +201,7 @@ client_and_work:
       image:
         x: "img/works/mlbgamepredictor.png"
         _2x: "img/works/mlbgamepredictor.png"
-      is_even: false
+      is_even: true
 
     - title: "Solidity Semiswap"
       description: "Designed an ERC-20 to Ether Automatic Market Maker DEX in Solidity for my Blockchain Systems class."
@@ -201,7 +213,7 @@ client_and_work:
       image:
         x: "img/works/semiswap.jpg"
         _2x: "img/works/semiswap.jpg"
-      is_even: true
+      is_even: false
 
 
 # testimonial
