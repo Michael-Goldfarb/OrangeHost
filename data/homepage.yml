@@ -175,8 +175,8 @@ client_and_work:
         github: "https://github.com/michael-goldfarb/OhConnections"
         URL: "https://OhConnections.com"
       image:
-        x: "img/works/ohconnections1.png"
-        _2x: "img/works/ohconnections1.png"
+        x: "img/works/ohconnections2.png"
+        _2x: "img/works/ohconnections2.png"
       is_even: true
       
     - title: "Mountain Hawk Food Finder"
