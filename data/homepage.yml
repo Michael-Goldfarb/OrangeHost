@@ -116,11 +116,11 @@ experience:
       
     - title: "Undergraduate Researcher"
       company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Dec 2023"
+      duration: "Aug 2023 - Present"
 
     - title: "Undergraduate Researcher"
       company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Dec 2023"
+      duration: "Aug 2023 - Present"
 
     - title: "Software Engineering Intern"
       company: "TrueToForm"
@@ -197,7 +197,7 @@ client_and_work:
         icon: "icon-arrow-right"
         btnText: "View"
         github: "https://github.com/michael-goldfarb/mlbgamepredictor"
-        URL: "https://github.com/michael-goldfarb/mlbgamepredictor"
+        URL: "https://MLBGamePredictor.com"
       image:
         x: "img/works/mlbgamepredictor.png"
         _2x: "img/works/mlbgamepredictor.png"
@@ -221,46 +221,16 @@ client_and_work:
 #   enable: true
 #   title: "Recommendations"
 #   items:
-#     - name: "Margaret Tam"
-#       position: "TrueToForm, CTO"
-#       content: "Leo consistently impressed me throughout his software engineering internship at TrueToForm, where I was his project manager and mentor. He quickly demonstrated that he has strong technical skills in programming and algorithm development, and that he is an incredibly motivated, fast learner. Over the course of the summer, he added 11 new body measurements which are critical to garment design and construction. By completing our automated set of full body measurements, we were able to launch the TrueToForm open beta program during the summer and acquire our first paying customers."
+#     - name: ""
+#       position: ""
+#       content: ""
 #       image:
-#         x: "img/testimonials/margarettam.jpeg"
-#         _2x: "img/testimonials/margarettam.jpeg"
+#         x: ""
+#         _2x: ""
  
-#     - name: "Dr. Chen Feng"
-#       position: "Assistant Professor, NYU"
-#       content: "Leo first reached out to me through LinkedIn as a high school sophomore to inquire about a summer research position in my group. In my conversations with him, he expressed a passion for machine learning, which he developed by developing personal projects and taking online courses. Leo was the perfect fit for an independent research student, and I had the pleasure of having Leo at the NYU AI4CE lab for the next three years. He demonstrated intellectual curiosity, excellence in collaborating with others, and a passion for machine learning. As an undergraduate student with rich research experience and motivation, he has my highest recommendation."
+#     - name: ""
+#       position: ""
+#       content: ""
 #       image:
-#         x: "img/testimonials/cfeng.jpeg"
-#         _2x: "img/testimonials/cfeng.jpeg"
-
-# contact
-contact:
-  enable: false
-  title: "Contact"
-  form:
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+41 (44) 505 10 99"
-  email:
-    title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
-  address:
-    title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Send Message"
-
-# newsletter
-newsletter:
-  enable: false
-  title: "Newsletter subscription"
-  success_message: "Successfully subscribed"
-  error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+#         x: ""
+#         _2x: ""
