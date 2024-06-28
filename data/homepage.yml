@@ -5,11 +5,11 @@ showcase:
   subtitle: '<span><a href="https://csb.lehigh.edu" target="_blank">CSB</a> @ <mark class="lehigh">Lehigh</mark></span>'
   description: "I am an undergraduate student at Lehigh University pursuing computer science and business with interests in machine learning and blockchain."
   image:
-    x: "img/showcase/moremes.jpg"
-    _2x: "img/showcase/moremes.jpg"
+    x: "img/showcase/moremess.jpg"
+    _2x: "img/showcase/moremess.jpg"
     alt: "Michael Goldfarb"
   imageMobile:
-    x: "img/showcase/moremes.jpg"
+    x: "img/showcase/moremess.jpg"
     alt: "Michael Goldfarb"
 
   linkedin:
@@ -99,7 +99,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. While working on these models, I was able to introduce <span class='bold-blue'>parallel processing</span> for enhanced model scalability. I researched for the <a href='https://wordpress.lehigh.edu/blockchain/' target='_blank'><span class='bold-brown'>Lehigh Blockchain</span></a> group, where I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
+  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. I research for the <a href='https://wordpress.lehigh.edu/blockchain/' target='_blank'><span class='bold-brown'>Lehigh Blockchain</span></a> group, where I currently am developing a Stellar-like <span class='bold-blue'>hierarchical consensus</span> mechanism to model a global cross-CBDC payment solution. Last fall, I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -179,18 +179,6 @@ client_and_work:
         _2x: "img/works/ohconnections2.png"
       is_even: true
       
-    - title: "Mountain Hawk Food Finder"
-      description: "An iOS app to display daily menus, menu item ratings, and hours of operation for Lehigh eateries."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "View"
-        github: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
-        URL: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
-      image:
-        x: "img/works/app.png"
-        _2x: "img/works/app.png"
-      is_even: false
-
     - title: "MLB Game Predictor"
       description: "A website that displays the results of my machine learning model, which uses statistics from games from the previous two MLB seasons to decide the current MLB game winner."
       button:
@@ -201,6 +189,18 @@ client_and_work:
       image:
         x: "img/works/mlbgamepredictor.png"
         _2x: "img/works/mlbgamepredictor.png"
+      is_even: false
+
+    - title: "Mountain Hawk Food Finder"
+      description: "An iOS app to display daily menus, menu item ratings, and hours of operation for Lehigh eateries."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "View"
+        github: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
+        URL: "https://github.com/michael-goldfarb/MountainHawkFoodFinder"
+      image:
+        x: "img/works/app.png"
+        _2x: "img/works/app.png"
       is_even: true
 
     - title: "Solidity Semiswap"
