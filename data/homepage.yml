@@ -99,7 +99,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. While working on these models, I was able to introduce <span class='bold-blue'>parallel processing</span> for enhanced model scalability. I researched for the <span class='bold-brown'>Lehigh Blockchain</span> group, where I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
+  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. While working on these models, I was able to introduce <span class='bold-blue'>parallel processing</span> for enhanced model scalability. I researched for the <a href='https://wordpress.lehigh.edu/blockchain/' target='_blank'><span class='bold-brown'>Lehigh Blockchain</span></a> group, where I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
