@@ -175,8 +175,8 @@ client_and_work:
         github: "https://github.com/michael-goldfarb/OhConnections"
         URL: "https://OhConnections.com"
       image:
-        x: "img/works/ohconnections3.png"
-        _2x: "img/works/ohconnections3.png"
+        x: "img/works/connectionsgame.png"
+        _2x: "img/works/connectionsgame.png"
       is_even: true
       
     - title: "MLB Game Predictor"
