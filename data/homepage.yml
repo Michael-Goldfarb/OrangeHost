@@ -187,8 +187,8 @@ client_and_work:
         github: "https://github.com/michael-goldfarb/mlbgamepredictor"
         URL: "https://MLBGamePredictor.com"
       image:
-        x: "img/works/mlbpredictor.png"
-        _2x: "img/works/mlbpredictor.png"
+        x: "img/works/predictorInGame.png"
+        _2x: "img/works/predictorInGame.png"
       is_even: false
 
     - title: "Mountain Hawk Food Finder"
