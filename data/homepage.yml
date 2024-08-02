@@ -77,8 +77,8 @@ about:
     x: "img/who-am-i/headshot.jpg"
     _2x: "img/who-am-i/headshot.jpg"
   image2:
-    x: "img/who-am-i/presentation3.jpg"
-    _2x: "img/who-am-i/presentation3.jpg"
+    x: "img/who-am-i/presentation.jpg"
+    _2x: "img/who-am-i/presentation.jpg"
 
 # education
 education:
