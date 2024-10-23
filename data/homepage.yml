@@ -5,11 +5,11 @@ showcase:
   subtitle: '<span><a href="https://csb.lehigh.edu" target="_blank">CSB</a> @ <mark class="lehigh">Lehigh</mark></span>'
   description: "I am an undergraduate student at Lehigh University pursuing computer science and business with interests in machine learning and blockchain."
   image:
-    x: "img/showcase/moremes.jpg"
-    _2x: "img/showcase/moremes.jpg"
+    x: "img/showcase/laurenstudios2.jpg"
+    _2x: "img/showcase/laurenstudios2.jpg"
     alt: "Michael Goldfarb"
   imageMobile:
-    x: "img/showcase/moremes.jpg"
+    x: "img/showcase/laurenstudios2.jpg"
     alt: "Michael Goldfarb"
 
   linkedin:
@@ -77,8 +77,8 @@ about:
     x: "img/who-am-i/headshot.jpg"
     _2x: "img/who-am-i/headshot.jpg"
   image2:
-    x: "img/who-am-i/presentation.jpg"
-    _2x: "img/who-am-i/presentation.jpg"
+    x: "img/who-am-i/laurenstudios1.jpg"
+    _2x: "img/who-am-i/laurenstudios1.jpg"
 
 # education
 education:
