@@ -110,18 +110,18 @@ experience:
     URL: "/resume.pdf"
 
   items:
+    - title: "Undergraduate Researcher"
+      company: "Lehigh Blockchain"
+      duration: "Aug 2023 - Present"
+
+    - title: "Undergraduate Researcher"
+      company: "Lehigh Blockchain"
+      duration: "Aug 2023 - Present"
+
     - title: "Student Capstone Software Engineer"
       company: "Oracle"
       duration: "Jan 2024 - Dec 2024"
       
-    - title: "Undergraduate Researcher"
-      company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Present"
-
-    - title: "Undergraduate Researcher"
-      company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Present"
-
     - title: "Software Engineering Intern"
       company: "TrueToForm"
       duration: "May 2022 - Jul 2022"
