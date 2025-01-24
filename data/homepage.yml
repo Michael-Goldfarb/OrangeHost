@@ -180,7 +180,7 @@ client_and_work:
       is_even: true
       
     - title: "OhConnections"
-      description: "OhConnections is a baseball-centric web application inspired by the New York Times’ ‘Connections,’ designed to challenge players with MLB-specific grouping puzzles. The platform integrates advanced state management and real-time user interaction logic to deliver a seamless and engaging experience. Within its first month, OHConnections achieved 1,000+ active users, driven by a visually intuitive interface that fosters high retention and user engagement."
+      description: "OhConnections is a baseball-centric web application inspired by the New York Times’ ‘Connections,’ designed to challenge players with MLB-specific grouping puzzles. The platform integrates state management and real-time user interaction logic to deliver a seamless and engaging experience. Within its first month, OhConnections achieved 1,000+ active users, driven by a visually intuitive interface that fosters high retention and user engagement."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -204,7 +204,7 @@ client_and_work:
       is_even: true
 
     - title: "Solidity Semiswap"
-      description: "Solidity SemiSwap is a decentralized exchange (DEX) built in Solidity, implementing an ERC-20 to Ether automatic market maker. Designed for a Blockchain Systems class, it allows users to seamlessly provide, estimate, and withdraw liquidity, as well as swap between ERC-20 tokens and Ether. The platform demonstrates core principles of decentralized finance through efficient smart contract design and user-centric functionality."
+      description: "Solidity Semiswap is a decentralized exchange (DEX) built in Solidity, implementing an ERC-20 to Ether automatic market maker. Designed for a Blockchain Systems class, it allows users to seamlessly provide, estimate, and withdraw liquidity, as well as swap between ERC-20 tokens and Ether. The platform demonstrates core principles of decentralized finance through efficient smart contract design and user-focused functionality."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
