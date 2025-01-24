@@ -77,7 +77,7 @@ about:
     x: "img/who-am-i/headshot.jpg"
     _2x: "img/who-am-i/headshot.jpg"
   image2:
-    x: "img/who-am-i/laurenstudioss1.jpg"
+    x: "img/who-am-i/laurenstudios1.jpg"
     _2x: "img/who-am-i/laurenstudioss1.jpg"
 
 # education
@@ -168,7 +168,7 @@ client_and_work:
 
   works:
     - title: "MLB Game Predictor"
-      description: "A website that displays the results of my machine learning model, which uses statistics from games from the previous two MLB seasons to decide the current MLB game winner."
+      description: "MLB Game Predictor is a machine learning-driven web application, leveraging over 2,430 game records from the MLB Stats API to forecast game outcomes with 60% accuracy. Powered by Spring Boot and integrating linear regression and random forest models, it processes and filters 20+ datasets using NumPy and Pandas. The platform serves 500+ active users monthly, offering data-driven predictions for baseball enthusiasts."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -180,7 +180,7 @@ client_and_work:
       is_even: true
       
     - title: "OhConnections"
-      description: "My take on the New York Times 'Connections' game -- applied to baseball!"
+      description: "OhConnections is a baseball-centric web application inspired by the New York Times’ ‘Connections,’ designed to challenge players with MLB-specific grouping puzzles. The platform integrates advanced state management and real-time user interaction logic to deliver a seamless and engaging experience. Within its first month, OHConnections achieved 1,000+ active users, driven by a visually intuitive interface that fosters high retention and user engagement."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -192,7 +192,7 @@ client_and_work:
       is_even: false
 
     - title: "Mountain Hawk Food Finder"
-      description: "An iOS app to display daily menus, menu item ratings, and hours of operation for Lehigh eateries."
+      description: "Mountain Hawk Food Finder is a full-stack iOS application designed to streamline dining at Lehigh University, especially after the closure of a major dining hall limited student options. The app offers daily menus, user-generated item ratings, and real-time business hours. Featuring seamless Apple Maps integration, it enables students to navigate remaining campus eateries efficiently. Built with a robust backend to manage user data and ratings, it provides a visually appealing and intuitive solution to enhance dining convenience amidst changing campus dynamics."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
@@ -204,7 +204,7 @@ client_and_work:
       is_even: true
 
     - title: "Solidity Semiswap"
-      description: "Designed an ERC-20 to Ether Automatic Market Maker DEX in Solidity for my Blockchain Systems class."
+      description: "Solidity SemiSwap is a decentralized exchange (DEX) built in Solidity, implementing an ERC-20 to Ether automatic market maker. Designed for a Blockchain Systems class, it allows users to seamlessly provide, estimate, and withdraw liquidity, as well as swap between ERC-20 tokens and Ether. The platform demonstrates core principles of decentralized finance through efficient smart contract design and user-centric functionality."
       button:
         icon: "icon-arrow-right"
         btnText: "View"
