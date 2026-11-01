@@ -35,8 +35,8 @@ about:
   title: "About Me"
   content: |
     <p class="lead">
-    I'm a software engineer at Air. My work focuses on <span class="bold-blue">distributed services</span>,
-    AI agent orchestration, real-time streaming, and cloud infrastructure.
+    I'm a Software Engineer II at Air. I build backend services and user-facing features for an <span class="bold-blue">AI workflow platform</span>,
+    including human review tools, LLM streaming, and file ingestion.
     </p>
     <p class="lead">
     I enjoy building reliable backend systems and <span class="bold-brown">full-stack applications</span>.
