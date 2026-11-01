@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: 'Hello, I’m <mark class="lapis">Michael</mark> <mark class="wave">👋</mark>'
-  subtitle: '<span><a href="https://csb.lehigh.edu" target="_blank">CSB</a> @ <mark class="lehigh">Lehigh</mark></span>'
-  description: "I am an undergraduate student at Lehigh University pursuing computer science and business with interests in machine learning and blockchain."
+  subtitle: '<span>Software Engineer II at <mark class="lehigh">Air</mark></span>'
+  description: "I build full-stack applications and backend infrastructure for production AI systems."
   image:
     x: "img/who-am-i/laurenstudioss2.jpg"
     _2x: "img/who-am-i/laurenstudioss2.jpg"
@@ -22,11 +22,6 @@ showcase:
     btnText: "GitHub"
     URL: "https://github.com/michael-goldfarb"
 
-  contact:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "mailto:mlg325@lehigh.edu"
-
   # socialLinks:
   #   - icon: "linkedin"
   #     URL: "https://www.linkedin.com/in/michaellgoldfarb/"
@@ -40,28 +35,23 @@ about:
   title: "About Me"
   content: |
     <p class="lead">
-    Hi there! I am a computer science and business student at <span class="bold-brown">Lehigh</span> who is focused on simplifying user interactions with technology,
-    finding unaddressed niches, and delivering innovative solutions to users. I strive to be an <span class="bold-blue">early adopter</span> 
-    of new technology so that I can deliver innovative products to users.
+    I'm a software engineer at Air. My work focuses on <span class="bold-blue">distributed services</span>,
+    AI agent orchestration, real-time streaming, and cloud infrastructure.
     </p>
     <p class="lead">
-    I have experience in machine learning, both in an industry and research setting. 
-    I also enjoy building <span class="bold-brown">web applications</span> for my projects, clubs, and internships. 
-    Recently, I’ve delved into <span class="bold-blue">Blockchain</span> and <span class="bold-brown">iOS development</span>.
+    I enjoy building reliable backend systems and <span class="bold-brown">full-stack applications</span>.
+    This site also collects projects and research from my time at Lehigh University.
     </p>
     <p class="lead">
-    Now, I'm excited to create <span class="bold-blue">user-friendly UX/UI experiences</span> and build secure, scalable backend systems.
-    My commitment to staying current with industry trends drives my pursuit of professional growth. 
-    I'm actively seeking opportunities to contribute my skills to innovative web development and software engineering projects.
+    I graduated from Lehigh University with a B.S. in Computer Science and Business.
     </p>
   content2: |
     <p class="lead">
-    With experience in designing <span class="bold-blue">machine learning models</span> and scraping/presenting large amounts of data, 
-    I've developed a MLB Game Predictor website and the Mountain Hawk Food Finder iOS app. 
+    Earlier projects include an MLB Game Predictor website and the Mountain Hawk Food Finder iOS app.
     </p>
     <p class="lead">
-    Last summer, I trained mathematical models and agent-based models based on historical data obtained by the CDC.
-    I also created <span class="bold-blue">powerful data visualizations</span> to provide actionable insights into mitigating influenza spread.
+    During a summer research project, I trained mathematical and agent-based models using historical CDC data.
+    I also created data visualizations to explore the spread of influenza.
     My team's agent-based influenza modeling project came in <span class="bold-brown">second place</span> in the Lehigh Summer Research Day Expo.
     </p>
     <p class="lead">
@@ -98,17 +88,12 @@ education:
 # experience
 experience:
   enable: true
-  title: "Experience"
-  description: "I’ve previously interned at <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, a research-intensive program in which I <span class='bold-blue'>trained models</span> to track the spread of influenza. I research for the <a href='https://wordpress.lehigh.edu/blockchain/' target='_blank'><span class='bold-brown'>Lehigh Blockchain</span></a> group, where I currently am developing a Stellar-like <span class='bold-blue'>hierarchical consensus</span> mechanism to model a global cross-CBDC payment solution. Last fall, I was involved with making pseudo <span class='bold-blue'>verkle trees</span> in Rust using the Marlin and ark_works cryptographic libraries. In creating the verkle tree, I worked on creating polynomial commitments, inserting nodes into the trie, and verifying proof of membership and non-membership."
+  title: "Earlier Experience"
+  description: "At <a href='https://summer.lehigh.edu/stem-si/' target='_blank'>STEM-SI</a>, I trained models to study the spread of influenza. With <a href='https://wordpress.lehigh.edu/blockchain/' target='_blank'>Lehigh Blockchain</a>, I researched hierarchical consensus and built prototype Verkle trees in Rust, including polynomial commitments and membership proofs."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/michaellgoldfarb/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "/resume.pdf"
-
   items:
     - title: "Student Capstone Software Engineer"
       company: "Oracle"
@@ -116,11 +101,11 @@ experience:
       
     - title: "Undergraduate Researcher"
       company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Present"
+      duration: "During undergraduate studies"
 
     - title: "Undergraduate Researcher"
       company: "Lehigh Blockchain"
-      duration: "Aug 2023 - Present"
+      duration: "During undergraduate studies"
 
     - title: "Software Engineering Intern"
       company: "TrueToForm"
